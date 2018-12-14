@@ -1,0 +1,8 @@
+E:\WinProjects\Counter\Counter\obj\Debug\Counter.csprojResolveAssemblyReference.cache
+E:\WinProjects\Counter\Counter\obj\Debug\Counter.MainForm.resources
+E:\WinProjects\Counter\Counter\obj\Debug\Counter.csproj.GenerateResource.Cache
+E:\WinProjects\Counter\Counter\bin\Debug\Counter.exe.config
+E:\WinProjects\Counter\Counter\bin\Debug\Counter.exe
+E:\WinProjects\Counter\Counter\bin\Debug\Counter.pdb
+E:\WinProjects\Counter\Counter\obj\Debug\Counter.exe
+E:\WinProjects\Counter\Counter\obj\Debug\Counter.pdb
